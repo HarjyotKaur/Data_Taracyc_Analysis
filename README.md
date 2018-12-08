@@ -1,7 +1,7 @@
 # Data_Taracyc_Analysis
 Raw Data Repository for Taracyc Analysis
 
-The Tara Oceans Project collected water samples data worldwide for shotgun metagenomic sequencing, and this data was then mapped to metabolomic pathways. Users can play, explore, and download the genome dataset from [Taracyc's R Shiny App](http://oganm.com/shiny/taracyc/). The raw master data used in the analysis is present in the data directory. Github Large File Storage has been used to store the dataset in this repository
+The Tara Oceans Project collected water samples data worldwide for shotgun metagenomic sequencing, and this data was then mapped to metabolomic pathways. Users can play, explore, and download the genome dataset from [Taracyc's R Shiny App](http://oganm.com/shiny/taracyc/). The raw master data used in the analysis is present in the data directory. Github Large File Storage has been used to store the dataset in this repository. The analysis done on this data is present in the repository [Taracyc Ocean Virus Analysis] (https://github.com/UBC-MDS/Taracyc_Ocean_Virus_Analysis)
 
 Steps followed for data download are outlined below:
 
